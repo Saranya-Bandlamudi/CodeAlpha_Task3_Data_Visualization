@@ -40,6 +40,7 @@ The dashboard analyzes the Global Superstore dataset to identify important sales
 
 ## Dashboard Screenshot
 
+<img width="1734" height="786" alt="image" src="https://github.com/user-attachments/assets/5db54217-534f-4665-8f7a-a5407f806d5c" />
 
 
 ## 🔍 Key Insights
